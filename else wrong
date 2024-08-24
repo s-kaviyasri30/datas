@@ -1,0 +1,14 @@
+class HelloWorld {
+    public static void main(String[] args) {
+        
+      String a1 = "orange";
+      String a2 = "apple";
+      {
+          if(a.equals(b));
+          {
+        System.out.println("equal");
+          }
+          else
+    {
+        System.out.println("not equal");
+    }
